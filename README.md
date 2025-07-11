@@ -3,7 +3,7 @@
 A simple interactive **Rock Paper Scissors** game built with **HTML**, **CSS**, and **JavaScript**. Challenge the computer, keep score, and see who wins!
 
 🔗 **Live Demo:**  
-[Click to Play](https://codemaverick12.github.io/ROCK-PAPER-SESSIOR-GAME/)
+[Click to Play](https://codemaverick12.github.io/ROCK-PAPER-SCISSOR-GAME/)
 
 ---
 
